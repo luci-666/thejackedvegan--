@@ -1,0 +1,351 @@
+body {
+    height: 1500px;
+
+    background-color: rgb(241, 241, 233);
+}
+
+.programss{
+    height: 350px;
+    color: white;
+    margin-bottom: 150px;
+    font-size: 75px;
+    text-shadow: 2px 2px 4px #000000;
+    background-attachment: fixed;
+    background-image: url(254291903_3069047776704831_390930324761212178778_n.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-left: 150px;
+    padding-top: 115px;
+}
+
+.myflag {
+    width: 36px;
+    height: 23px;
+    border-radius: 4px;
+    margin-right: 30px;
+
+
+}
+
+
+
+.profilep{
+    color:#050505 ; 
+    display: flex;
+    align-items: center;
+    font-size: 15px;
+    font-weight: bold;
+    padding-left: 10px;
+    padding-top: 15px;
+}
+
+
+.profile{
+    display: flex;
+    align-items: center;
+    margin-right: 5px;
+    padding: 2px 10px 2px 2px;
+    border-radius: 8px;
+
+}
+
+
+
+
+.profile img {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+
+.contacts{
+    height: 350px;
+    color: white;
+    margin-bottom: 110px;
+    font-size: 75px;
+    text-shadow: 2px 2px 4px #000000;
+    background-attachment: fixed;
+    background-image: url(IMG_06766.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-left: 150px;
+    padding-top: 115px;
+}
+
+.Navbar {
+    box-shadow: 0px 3px 3px rgb(0 0 0 / 8%);
+}
+
+.imgpos {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.calidis{
+    display: flex;
+    font-size: 30px;
+    text-shadow: 2px 2px 4px #000000; 
+    justify-content: center;
+}
+
+.paragraphk{
+    display: flex;
+    text-align: center;
+    width: 100%;
+    margin-top: 100px;
+    font-size: 20px;
+    text-shadow: 2px 2px 4px #000000; 
+}
+
+.img1 {
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+    padding: 10px 20px;
+    
+}
+
+.img2 {
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+    padding: 10px 20px;
+}
+
+.img3 {
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+    padding: 10px 20px;
+}
+
+.email {
+    padding-bottom: 200px;
+
+
+
+}
+
+
+
+.paragraphandemail{
+    width: 45%;
+    padding-left: 100px;
+    justify-content: left;
+}
+
+.emailstyle {
+    width: 45%;
+    justify-content: right;
+    float: right;
+    clear: both;
+}
+
+.name {
+    -webkit-font-smoothing: antialiased;
+    width: 85%;
+    margin: 0 0 25px;
+    padding: 15px 20px;
+    line-height: 20px;
+    background-color: #31364609;
+    border-radius: 0;
+    outline: 0;
+    -webkit-appearance: none;
+    cursor: text;
+    box-sizing: border-box;
+    transition: border-color .2s ease-in-out;
+    color: #313646;
+    font-size: 15px;
+    font-family: Ubuntu,sans-serif;
+    font-weight: 400;
+    border: 1px solid transparent;
+
+
+
+
+}
+
+
+.email{
+
+    -webkit-font-smoothing: antialiased;
+    width: 85%;
+    margin: 0 0 25px;
+    padding: 15px 20px;
+    line-height: 20px;
+    background-color: #31364609;
+    border-radius: 0;
+    outline: 0;
+    -webkit-appearance: none;
+    cursor: text;
+    box-sizing: border-box;
+    transition: border-color .2s ease-in-out;
+    color: #313646;
+    font-size: 15px;
+    font-family: Ubuntu,sans-serif;
+    font-weight: 400;
+    border: 1px solid transparent;
+}
+
+.message {
+    -webkit-font-smoothing: antialiased;
+    display: block;
+    width: 85%;
+    margin: 0 0 25px;
+    padding: 15px 20px;
+    padding-bottom: 100px;
+    line-height: 20px;
+    background-color: #31364609;
+    border-radius: 0;
+    outline: 0;
+    -webkit-appearance: none;
+    cursor: text;
+    box-sizing: border-box;
+    transition: border-color .2s ease-in-out;
+    color: #313646;
+    font-size: 15px;
+    font-family: Ubuntu,sans-serif;
+    font-weight: 400;
+    border: 1px solid transparent;
+}
+
+.submit {
+    margin-bottom: 200px;
+    background-color: #f34e3a;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    border-radius: 3px;
+}
+
+
+.nav-items {
+    display: flex;
+    align-items: center;
+    font-weight: 600;
+
+    
+
+}
+
+a:visited {
+    color: rgb(0, 0, 0);
+}
+
+a:link {
+    text-decoration: none;
+}
+
+.nav-linkk {
+    margin-left: 280px;
+    margin-right: 10%;
+    font-size: 25px; 
+}
+
+.nav-link1 {
+    
+    margin-right: 10%;
+    font-size: 25px; 
+    color: #000000;
+
+}
+
+
+.followme{
+    font-size: 22px;
+}
+
+
+.iconsweb {
+    height: 350px;
+    background-color: #f34e3a;
+    clear: both;
+    font-size: 30px;
+    width: 100%;
+    justify-content: center;
+    text-align: center;
+    padding-top: 100px;
+    margin-top: 500px;
+
+}
+
+
+.instagramicon {
+    padding: 6px 8px 6px 14px;
+    width: 100%;
+    margin-right: 5px;
+
+}
+.youtubeicon {
+    padding: 6px 10px 6px 10px;
+    width: 100%;
+    margin-left: 5px;
+
+
+
+
+}
+
+
+a.instagramicon:hover, a.instagramicon:active {border-radius: 50%; background-color: white;}
+
+a.youtubeicon:hover, a.youtubeicon:active {border-radius: 50%; background-color: white;}
+
+
+
+
+
+
+
+@media screen and (max-width:750px){
+
+    .programss{
+        font-size: 45px;
+    }
+    .contacts{
+        font-size: 45px;
+    }
+
+}
+
+
+@media screen and (max-width:1000px){
+
+    .imgpos{
+        display: block;
+        display: inline-block;
+
+    }
+    
+
+}
+
+
+
+@media screen and (max-width:1180px){
+
+    .nav-linkk{
+        margin-left: 110px;
+
+
+    }
+    
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
